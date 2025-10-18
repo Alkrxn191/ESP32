@@ -89,7 +89,7 @@
 #endif
 #endif
 
-#define AUXINPUT0_PIN       GPIO_NUM_39 // Probe
+#define AUXINPUT0_PIN       GPIO_NUM_15 // Probe
 #define AUXINPUT1_PIN       GPIO_NUM_2  // Reset/EStop
 #define AUXINPUT2_PIN       GPIO_NUM_4  // Feed hold
 #define AUXINPUT3_PIN       GPIO_NUM_35 // Cycle start
